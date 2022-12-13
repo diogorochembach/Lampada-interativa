@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(48, 48, 48);
+}
+
+header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: grid;
+    grid-auto-flow: column;
+    background-color: rgb(48, 48, 48);
+    color: rgb(239, 235, 228);
+}
+
+img{
+    width: 120px;
+}
+section{
+    background-color: rgb(239, 235, 228);
+}
