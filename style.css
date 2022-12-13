@@ -11,6 +11,7 @@ header{
     grid-auto-columns: 33vw;
     background-color: rgb(48, 48, 48);
     color: rgb(239, 235, 228);
+    margin-top: 50px;
 }
 
 section{
@@ -20,6 +21,7 @@ section{
     border-radius: 20px;
     width: 50%;
     margin: auto;
+    margin-top: 80px;
 }
 
 .botao{
